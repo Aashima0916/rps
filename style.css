@@ -1,0 +1,15 @@
+.block {
+    font-size: xx-large;
+}
+
+#rock {
+    display: inline-block;
+}
+
+#paper {
+    display: inline-block;
+}
+
+#scissor {
+    display: inline-block;
+}
